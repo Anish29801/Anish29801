@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/anish29801-ntzbors/overview](https://app.netlify.com/teams/anish29801-ntzbors/overview)
 
-- 📝 I regularly write articles on [https://app.netlify.com/teams/anish29801-ntzbors/overview](https://app.netlify.com/teams/anish29801-ntzbors/overview)
+- 📝 I regularly write articles on [https://micro123.hashnode.dev/](https://micro123.hashnode.dev/)
 
 - 💬 Ask me about **Javascript,Bootstrap,Tailwind**
 
