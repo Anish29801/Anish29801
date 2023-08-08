@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anish Agrawal</h1>
-<h3 align="center">A Curious Frontend Developer</h3>
+<h3 align="center">A Determined Programing and Learner</h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **Javascript Frameworks**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/anish29801-ntzbors/overview](https://app.netlify.com/teams/anish29801-ntzbors/overview)
 
-- 📝 I regularly write articles on [https://micro123.hashnode.dev/](https://micro123.hashnode.dev/)
-
-- 💬 Ask me about **Javascript,Bootstrap,Tailwind**
+- 💬 Ask me about **Javascript,Java,C#,C++**
 
 - 📫 How to reach me **micro.anish29801@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o1e47aR55kAi4vaWHPw17ltd2__PweZG/view](https://drive.google.com/file/d/1o1e47aR55kAi4vaWHPw17ltd2__PweZG/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o1e47aR55kAi4vaWHPw17ltd2__PweZG/view](https://drive.google.com/file/d/1OpUeRwzXXBL3lyxi2phArdqZ3sU90q9U/view?usp=sharing)
 
-- ⚡ Fun fact **Two bytes meet. The first byte asks, “Are you ill?” The second byte replies, “No, just feeling a bit off.”**
+- ⚡ Fact ”The more you code,the more you grow"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
